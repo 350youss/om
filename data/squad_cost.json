@@ -1,6 +1,6 @@
 {
  "season": "2026-27",
- "updated": "2026-08-09T14:03:44",
+ "updated": "2026-08-09T17:08:04",
  "base": {
   "agent_fees_base": 10.0,
   "note": "On ne se base plus sur l'exercice 2024-25 : le numérateur est recalculé à partir de l'effectif actuel (squad_finances). Seuls les honoraires d'agents restent une estimation fixe."
@@ -237,10 +237,10 @@
    "fee_lookup_done": true
   },
   "Jelle Van Neck": {
-   "fee": null,
+   "fee": 0.0,
    "contract_years": null,
-   "contract_years_basis": "inconnue",
-   "contract_end_year": 2027,
+   "contract_years_basis": "arrivé libre",
+   "contract_end_year": null,
    "amortization_annual": 0.0,
    "wage_capology_gross": 0.27,
    "wage_estimated_loaded": 0.405,
