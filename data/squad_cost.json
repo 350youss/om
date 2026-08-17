@@ -1,6 +1,6 @@
 {
  "season": "2026-27",
- "updated": "2026-08-09T17:08:04",
+ "updated": "2026-08-17T18:50:55",
  "base": {
   "agent_fees_base": 10.0,
   "note": "On ne se base plus sur l'exercice 2024-25 : le numérateur est recalculé à partir de l'effectif actuel (squad_finances). Seuls les honoraires d'agents restent une estimation fixe."
@@ -216,6 +216,54 @@
   },
   {
    "date": "2026-08-09",
+   "numerator": 146.19,
+   "denominator": 209.027,
+   "ratio": 0.6994,
+   "sales_total": 51.4,
+   "trigger": "Recalcul"
+  },
+  {
+   "date": "2026-08-10",
+   "numerator": 146.19,
+   "denominator": 251.4,
+   "ratio": 0.5815,
+   "sales_total": 51.4,
+   "trigger": "Recalcul"
+  },
+  {
+   "date": "2026-08-10",
+   "numerator": 146.19,
+   "denominator": 209.027,
+   "ratio": 0.6994,
+   "sales_total": 51.4,
+   "trigger": "Recalcul"
+  },
+  {
+   "date": "2026-08-11",
+   "numerator": 146.19,
+   "denominator": 251.4,
+   "ratio": 0.5815,
+   "sales_total": 51.4,
+   "trigger": "Recalcul"
+  },
+  {
+   "date": "2026-08-12",
+   "numerator": 146.19,
+   "denominator": 209.027,
+   "ratio": 0.6994,
+   "sales_total": 51.4,
+   "trigger": "Recalcul"
+  },
+  {
+   "date": "2026-08-12",
+   "numerator": 146.19,
+   "denominator": 251.4,
+   "ratio": 0.5815,
+   "sales_total": 51.4,
+   "trigger": "Recalcul"
+  },
+  {
+   "date": "2026-08-12",
    "numerator": 146.19,
    "denominator": 209.027,
    "ratio": 0.6994,
@@ -487,6 +535,42 @@
    "wage_estimated_loaded": null,
    "on_loan": true,
    "fee_lookup_done": true
+  },
+  "Keyliane Abdallah": {
+   "fee": 0.0,
+   "contract_years": null,
+   "contract_years_basis": "arrivé libre",
+   "contract_end_year": 2028,
+   "amortization_annual": 0.0,
+   "wage_capology_gross": null,
+   "wage_estimated_loaded": null,
+   "arrival_season": null,
+   "market_value_fallback": 0.05,
+   "fee_lookup_done": true
+  },
+  "Théo Vermot": {
+   "fee": 0.0,
+   "contract_years": null,
+   "contract_years_basis": "arrivé libre",
+   "contract_end_year": 2027,
+   "amortization_annual": 0.0,
+   "wage_capology_gross": null,
+   "wage_estimated_loaded": null,
+   "arrival_season": null,
+   "market_value_fallback": 0.0,
+   "fee_lookup_done": true
+  },
+  "Tadjidine Mmadi": {
+   "fee": 0.0,
+   "contract_years": null,
+   "contract_years_basis": "arrivé libre",
+   "contract_end_year": 2029,
+   "amortization_annual": 0.0,
+   "wage_capology_gross": null,
+   "wage_estimated_loaded": null,
+   "arrival_season": null,
+   "market_value_fallback": 0.8,
+   "fee_lookup_done": true
   }
  },
  "contract_overrides": {
@@ -739,6 +823,16 @@
    "delta_points": -0.87
   },
   {
+   "name": "Tadjidine Mmadi",
+   "market_value": 0.8,
+   "wage": 0.0,
+   "amortization": 0.0,
+   "book_value": 0.0,
+   "capital_gain": 0.8,
+   "new_ratio": 0.6967,
+   "delta_points": -0.27
+  },
+  {
    "name": "Jelle Van Neck",
    "market_value": 0.0,
    "wage": 0.405,
@@ -747,6 +841,26 @@
    "capital_gain": 0.0,
    "new_ratio": 0.6974,
    "delta_points": -0.2
+  },
+  {
+   "name": "Keyliane Abdallah",
+   "market_value": 0.05,
+   "wage": 0.0,
+   "amortization": 0.0,
+   "book_value": 0.0,
+   "capital_gain": 0.05,
+   "new_ratio": 0.6992,
+   "delta_points": -0.02
+  },
+  {
+   "name": "Théo Vermot",
+   "market_value": 0.0,
+   "wage": 0.0,
+   "amortization": 0.0,
+   "book_value": 0.0,
+   "capital_gain": 0.0,
+   "new_ratio": 0.6994,
+   "delta_points": 0.0
   }
  ]
 }
